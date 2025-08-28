@@ -1,4 +1,5 @@
 📊 Asian Paints – Financial Modeling & Credit Risk Report
+
 🏢 1. About the Company
 
 Profile: Founded in 1942, Asian Paints is India’s 🇮🇳 largest paint company and ranks among the Top 10 global coatings manufacturers 🌍.
